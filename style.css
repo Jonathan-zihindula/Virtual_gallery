@@ -208,7 +208,7 @@ footer .social i:hover{
 } 
 
 /* media quiries */
-/* 
+
 @media(max-width : 874px ){
     #flex{
         display: grid;
@@ -249,7 +249,7 @@ footer .social i:hover{
     
     }
 
-} */
+}
 
 @media(max-width : 507px){
 
